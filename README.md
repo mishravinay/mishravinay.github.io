@@ -28,12 +28,19 @@ Specialties:  “Mobile/Web Application Development and Consulting”
 WORK AREA’S:
 
 Languages: C, C++, Objective-C, Swift 4.1, Python, ROR, HTML/CSS/JS (iOS (iPhone/iPad/iPod),COCOA Touch, MAC-OSX, TVOS, AppleWatch)
+
 Tools: MS-Office, XCode-7, Phonegap, SublimeText, Notepad++
+
 Methodologies: AGILE, SCRUM
+
 Web-Service: SOAP, REST (JSON/XML)
+
 Database: Concepts, Sqlite3, SQL, PL-SQL
+
 Version Control/Tools: SVN/GIT/Bitbucket, Gerrit, Bugzilla, JIRA
+
 Others: OOP’s Concepts, UML, Design Patterns, Algorithms and Data Structures, SOA, TDD, BDD, JENKINS-CI, Crashlytics, Flurry, Adobe Analytics, AWS & much more.
+
 
 I love taking challenges, that may extend my experience, and create software that I can be really proud of. Successfully publish more than 25 + mobile applications to the market. Apart from that hands-on mobile development & delivering products across a variety of Mobile Platforms. 
 
