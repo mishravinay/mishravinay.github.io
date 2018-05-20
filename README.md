@@ -12,7 +12,7 @@ EXPERIENCE :
 
 Specialties:  “Mobile/Web Application Development and Consulting”
 
-“Self-motivated, Result oriented and competent professional offering over 6+ Years of rich exposure software development under Mobility/Web domain. Technically strong professional with extensive experience in Solution Architecture, Prototyping & Designing, Excellent in Quality Processes for the development, Problem solving and a hands-on, with CAN-DO mentality. I create software’s and business solution’s that are always practical, economical and scalable.”
+“Self-motivated, Result oriented and competent professional offering over 7+ Years of rich exposure software development under Mobility/Web domain. Technically strong professional with extensive experience in Solution Architecture, Prototyping & Designing, Excellent in Quality Processes for the development, Problem solving and a hands-on, with CAN-DO mentality. I create software’s and business solution’s that are always practical, economical and scalable.”
 
 ➢ Having Experience in Architecting a new product, Product POC’s & Prototype designing, iOS/Watch/TVOS development API’s/Frameworks integration, UI/UX Customization and etc
 
@@ -29,7 +29,7 @@ WORK AREA’S:
 
 Languages: C, C++, Objective-C, Swift 4.1, Python, ROR, HTML/CSS/JS (iOS (iPhone/iPad/iPod),COCOA Touch, MAC-OSX, TVOS, AppleWatch)
 
-Tools: MS-Office, XCode-7, Phonegap, SublimeText, Notepad++
+Tools: MS-Office, XCode-9, Phonegap, SublimeText, Notepad++
 
 Methodologies: AGILE, SCRUM
 
