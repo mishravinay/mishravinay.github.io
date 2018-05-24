@@ -4,13 +4,13 @@ ABOUT : MISHRA VINAY
 
 A SNAP-SHOT :
 
-I am a 31-years old programmer living in NEW DELHI, India. I worked as a “Technical Lead – Product Development & RnD ” at Harman (A Sumsung company). Currently, I am pursuing M.Tech in Computer Science and Engineering (CSE) from Indian Institue of Technology (Indian School Of Mines) Dhanbad [IIT-ISM Dhanbad]. I have done Masters in Computer Applications (MCA) with from University of Rajasthan, Jaipur. I posses a Bachelor’s degree with Computer Science and Mathematics from Lucnow University, Lucknow. 
+I am a 31-years old programmer living in NEW DELHI, India. I worked as a “Technical Lead – Product Development & RnD ” at Harman (A Sumsung company). Currently, I am pursuing M.Tech in Computer Science and Engineering (CSE) from Indian Institue of Technology (Indian School Of Mines) Dhanbad [IIT-ISM Dhanbad]. I have done Masters in Computer Applications (MCA) from University of Rajasthan, Jaipur. I posses a Bachelor’s degree in Computer Science and Mathematics from Lucnow University, Lucknow. 
 
-Apart of that my hobbies to learn new technologies like Big Data, ML, Data Science, mathematics blogs, reading books, writing and post article on my blog. In my free time I am writing Hindi Poems and Hindi Stories. 
+I have keen interest to learn new technologies like Big Data, ML, Data Science, mathematics blogs, reading books, writing and post article on my blog. In my free time I am writing Hindi Poems and Hindi Stories. 
 
 EXPERIENCE :
 
-Specialties:  “Mobile/Web Application Development and Consulting & Experiment on Data Science  & Algorithms" 
+Specialties:  “Mobile/Web Application Development and Consulting & Experiments on Data Science & Algorithms" 
 
 “Self-motivated, Result oriented and competent professional offering over 7+ Years of rich exposure software development under Mobility/Web domain. Technically strong professional with extensive experience in Solution Architecture, Prototyping & Designing, Excellent in Quality Processes for the development, Problem solving and a hands-on, with CAN-DO mentality. I create software’s and business solution’s that are always practical, economical and scalable.”
 
