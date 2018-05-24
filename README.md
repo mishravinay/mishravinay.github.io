@@ -6,13 +6,15 @@ A SNAP-SHOT :
 
 I am a 31-years old programmer living in NEW DELHI, India. I worked as a “Technical Lead – Product Development & RnD ” at Harman (A Sumsung company). Currently, I am pursuing M.Tech in Computer Science and Engineering (CSE) from Indian Institue of Technology (Indian School Of Mines) Dhanbad [IIT-ISM Dhanbad]. I have done Masters in Computer Applications (MCA) with from University of Rajasthan, Jaipur. I posses a Bachelor’s degree with Computer Science and Mathematics from Lucnow University, Lucknow. 
 
-Apart of that my hobbies to learn new technologies, mathematics blogs, reading books, writing and post article on my blog. In my free time I am writing Hindi Poems and Hindi Stories. 
+Apart of that my hobbies to learn new technologies like Big Data, ML, Data Science, mathematics blogs, reading books, writing and post article on my blog. In my free time I am writing Hindi Poems and Hindi Stories. 
 
 EXPERIENCE :
 
-Specialties:  “Mobile/Web Application Development and Consulting”
+Specialties:  “Mobile/Web Application Development and Consulting & Experiment on Data Science  & Algorithms" 
 
 “Self-motivated, Result oriented and competent professional offering over 7+ Years of rich exposure software development under Mobility/Web domain. Technically strong professional with extensive experience in Solution Architecture, Prototyping & Designing, Excellent in Quality Processes for the development, Problem solving and a hands-on, with CAN-DO mentality. I create software’s and business solution’s that are always practical, economical and scalable.”
+
+➢ Responsible for implementing data mining and statistical machine learning solutions to various business problems as Product POC’s.
 
 ➢ Having Experience in Architecting a new product, Product POC’s & Prototype designing, iOS/Watch/TVOS development API’s/Frameworks integration, UI/UX Customization and etc
 
@@ -27,9 +29,11 @@ Specialties:  “Mobile/Web Application Development and Consulting”
 
 WORK AREA’S:
 
-Languages: C, C++, Objective-C, Swift 4.1, Python, ROR, HTML/CSS/JS (iOS (iPhone/iPad/iPod),COCOA Touch, MAC-OSX, TVOS, AppleWatch)
+Languages: C, C++, Objective-C, Swift 4.1, Python, ROR, HTML/CSS/JS (iOS (iPhone/iPad/iPod),COCOA Touch, MAC-OSX, TVOS, AppleWatch), R
 
-Tools: MS-Office, XCode-9, Phonegap, SublimeText, Notepad++
+Big Data and Data Science: R, Scala, Spark, Python Libary, and Many more.
+
+Tools: MS-Office, XCode-9, Phonegap, SublimeText, Notepad++, Atom
 
 Methodologies: AGILE, SCRUM
 
@@ -40,7 +44,7 @@ Database: Concepts, Sqlite3, SQL, PL-SQL
 Version Control/Tools: SVN/GIT/Bitbucket, Gerrit, Bugzilla, JIRA
 
 Others: OOP’s Concepts, UML, Design Patterns, Algorithms and Data Structures, SOA, TDD, BDD, JENKINS-CI, Crashlytics, Flurry, Adobe Analytics, AWS & much more.
-
+ 
 
 I love taking challenges, that may extend my experience, and create software that I can be really proud of. Successfully publish more than 25 + mobile applications to the market. Apart from that hands-on mobile development & delivering products across a variety of Mobile Platforms. 
 
@@ -66,7 +70,7 @@ Best Regards,
 
 Mishra Vinay
 
-Email | mishra.vinav@gmail.com || MB | +91-9711355003
+Email | mishra.vinav@gmail.com || MB | +91-9711355003 || Skype | mishra.vinav@gmail.com
 
                                         [|| CREATIVE, RE-INVENTED, INVENTION…||]
 
