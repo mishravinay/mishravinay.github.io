@@ -4,7 +4,7 @@ ABOUT : MISHRA VINAY
 
 A SNAP-SHOT :
 
-I am a 31-years old programmer living in NEW DELHI, India. I worked as a “Technical Lead – Product Development & RnD ” at Harman (A Sumsung company). Currently, I am pursuing M.Tech in Computer Science and Engineering (CSE) from Indian Institue of Technology (Indian School Of Mines) Dhanbad [IIT-ISM Dhanbad]. I have done Masters in Computer Applications (MCA) from University of Rajasthan, Jaipur. I posses a Bachelor’s degree in Computer Science and Mathematics from Lucnow University, Lucknow. 
+I am a 31-years old programmer living in NEW DELHI, India. I worked as a “Technical Lead – Product Development & RnD ” at Harman (A Sumsung company). I have done Masters in Computer Applications (MCA) from University of Rajasthan, Jaipur. I posses a Bachelor’s degree in Computer Science and Mathematics from Lucnow University, Lucknow. 
 
 I have keen interest to learn new technologies like Big Data, ML, Data Science, mathematics blogs, reading books, writing and post article on my blog. In my free time I am writing Hindi Poems and Hindi Stories. 
 
