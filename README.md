@@ -4,7 +4,7 @@ ABOUT : MISHRA VINAY
 
 A SNAP-SHOT :
 
-I am a 31-years old programmer living in NEW DELHI, India. I worked as a “Technical Lead – Product Development & RnD ” at Harman (A Sumsung company). I have done Masters in Computer Applications (MCA) from University of Rajasthan, Jaipur. I posses a Bachelor’s degree in Computer Science and Mathematics from Lucnow University, Lucknow. 
+I am working as a “Technical Lead – Product Development & RnD ” at Harman (A Sumsung company). I have done Masters in Computer Applications (MCA) from University of Rajasthan, Jaipur. I posses a Bachelor’s degree in Computer Science and Mathematics from Lucnow University, Lucknow. 
 
 I have keen interest to learn new technologies like Big Data, ML, Data Science, mathematics blogs, reading books, writing and post article on my blog. In my free time I am writing Hindi Poems and Hindi Stories. 
 
@@ -12,7 +12,7 @@ EXPERIENCE :
 
 Specialties:  “Mobile/Web Application Development and Consulting & Experiments on Data Science & Algorithms" 
 
-“Self-motivated, Result oriented and competent professional offering over 7+ Years of rich exposure software development under Mobility/Web domain. Technically strong professional with extensive experience in Solution Architecture, Prototyping & Designing, Excellent in Quality Processes for the development, Problem solving and a hands-on, with CAN-DO mentality. I create software’s and business solution’s that are always practical, economical and scalable.”
+“Self-motivated, Result oriented and competent professional offering over 8+ Years of rich exposure software development under Mobility/Web domain. Technically strong professional with extensive experience in Solution Architecture, Prototyping & Designing, Excellent in Quality Processes for the development, Problem solving and a hands-on, with CAN-DO mentality. I create software’s and business solution’s that are always practical, economical and scalable.”
 
 ➢ Responsible for implementing data mining and statistical machine learning solutions to various business problems as Product POC’s.
 
@@ -29,9 +29,7 @@ Specialties:  “Mobile/Web Application Development and Consulting & Experiments
 
 WORK AREA’S:
 
-Languages: C, C++, Objective-C, Swift 4.1, Python, ROR, HTML/CSS/JS (iOS (iPhone/iPad/iPod),COCOA Touch, MAC-OSX, TVOS, AppleWatch), R
-
-Big Data and Data Science: R, Scala, Spark, Python Libary, and Many more.
+Languages: C, C++, Objective-C, Swift 4.1, HTML/CSS/JS (iOS (iPhone/iPad/iPod),COCOA Touch, MAC-OSX, TVOS, AppleWatch), 
 
 Tools: MS-Office, XCode-9, Phonegap, SublimeText, Notepad++, Atom
 
