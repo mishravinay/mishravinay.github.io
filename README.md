@@ -4,9 +4,9 @@ ABOUT : MISHRA VINAY
 
 A SNAP-SHOT :
 
-I am working as a “Technical Lead – Product Development & RnD ” at Harman (A Sumsung company). I have done Masters in Computer Applications (MCA) from University of Rajasthan, Jaipur. I posses a Bachelor’s degree in Computer Science and Mathematics from Lucnow University, Lucknow. 
+I am working as a “Technical Lead – Product Development & RnD ” at Harman (A Sumsung company). 
 
-I have keen interest to learn new technologies like Big Data, ML, Data Science, mathematics blogs, reading books, writing and post article on my blog. In my free time I am writing Hindi Poems and Hindi Stories. 
+I have keen interest to learn new technologies like Big Data, ML, Data Science, Quantum Computing,mathematics blogs, reading books, writing and post article on my blog. In my free time I am writing Hindi Poems and Hindi Stories. 
 
 EXPERIENCE :
 
@@ -41,7 +41,7 @@ Database: Concepts, Sqlite3, SQL, PL-SQL
 
 Version Control/Tools: SVN/GIT/Bitbucket, Gerrit, Bugzilla, JIRA
 
-Others: OOP’s Concepts, UML, Design Patterns, Algorithms and Data Structures, SOA, TDD, BDD, JENKINS-CI, Crashlytics, Flurry, Adobe Analytics, AWS & much more.
+Others: OOP’s Concepts, SOLID, UML, Design Patterns, Algorithms and Data Structures, SOA, TDD, BDD, JENKINS-CI, Crashlytics, Flurry, Adobe Analytics, AWS & much more.
  
 
 I love taking challenges, that may extend my experience, and create software that I can be really proud of. Successfully publish more than 25 + mobile applications to the market. Apart from that hands-on mobile development & delivering products across a variety of Mobile Platforms. 
