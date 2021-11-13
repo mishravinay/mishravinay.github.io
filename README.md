@@ -2,17 +2,20 @@
 
 ABOUT : MISHRA VINAY
 
-A SNAP-SHOT :
+##A SNAP-SHOT :
 
-I am working as a “Technical Lead – Product Development & RnD ” at Harman (A Sumsung company). 
+An innovative thinker, synergistic visionary, technical enthusiast, and competent professional offering 11+ years of rich exposure in the IT Industry with a proven history of working with big clients, companies, and startups. Currently associated with Harman as Technical Lead & Architect – Product Development & RnD.
 
-I have keen interest to learn new technologies like Big Data, ML, Data Science, Quantum Computing,mathematics blogs, reading books, writing and post article on my blog. In my free time I am writing Hindi Poems and Hindi Stories. 
+I have done two master’s degrees:- M.TECH. (Computer Science and Engineering) From IIT (ISM), Dhanbad, India, and Masters in Computer Applications (MCA) from the University of Rajasthan, Jaipur, India. I possess a Bachelor’s degree in Computer Science and Mathematics from Lucknow University, Lucknow, India.
 
-EXPERIENCE :
+I have a keen interest to learn new transforming technological stacks included Quantum Computing, Cloud Computing& It’s services, Big Data Analytics, Machine Learning, Deep Learning, Data Science, Cryptographical Algorithms & Cryptocurrency.. In my free time, I am writing Hindi Poems and Stories, also publish technical articles on my blog.
 
-Specialties:  “Mobile/Web Application Development and Consulting & Experiments on Data Science & Algorithms" 
 
-“Self-motivated, Result oriented and competent professional offering over 8+ Years of rich exposure software development under Mobility/Web domain. Technically strong professional with extensive experience in Solution Architecture, Prototyping & Designing, Excellent in Quality Processes for the development, Problem solving and a hands-on, with CAN-DO mentality. I create software’s and business solution’s that are always practical, economical and scalable.”
+##EXPERIENCE :
+
+Specialties:  “Mobile/Web/Data-Driven Application Development and Consulting & Experiments on Data Science & Algorithms" 
+
+“Self-motivated, Result oriented and competent professional offering over 11+ Years of rich exposure software development under Mobility/Web domain. Technically strong professional with extensive experience in Solution Architecture, Prototyping & Designing, Excellent in Quality Processes for the development, Problem solving and a hands-on, with CAN-DO mentality. I create software’s and business solution’s that are always practical, economical and scalable.”
 
 ➢ Responsible for implementing data mining and statistical machine learning solutions to various business problems as Product POC’s.
 
@@ -27,9 +30,9 @@ Specialties:  “Mobile/Web Application Development and Consulting & Experiments
 
                  [|| READER || BLOGGER|| TECHNOLOGIST || SOLOUTION ARCHITECT || FREELANCER || TEACHING ||]
 
-WORK AREA’S:
+##WORK AREA’S:
 
-Languages: C, C++, Objective-C, Swift 4.1, HTML/CSS/JS (iOS (iPhone/iPad/iPod),COCOA Touch, MAC-OSX, TVOS, AppleWatch), 
+Languages: C, C++, Objective-C, Swift 4.1, HTML/CSS/JS , iOS (iPhone/iPad/iPod),COCOA Touch, MAC-OSX, TVOS, AppleWatch), 
 
 Tools: MS-Office, XCode-9, Phonegap, SublimeText, Notepad++, Atom
 
